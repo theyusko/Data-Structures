@@ -1,8 +1,3 @@
-/*
- * Ecem ilg?n
- * 21502157
- */
-
 #include "Flight.h"
 
 class ReservationSystem {
