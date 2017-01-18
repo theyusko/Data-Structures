@@ -1,9 +1,3 @@
-/*
- * Ecem ilgun
- * 21502157
- */
-
-
 #include "Flight.h"
 #include <iostream>
 #include <string>
