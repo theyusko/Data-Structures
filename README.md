@@ -1,3 +1,3 @@
 # CS315
 
-#### Bilkent University Programming Languages HWs 
+#### Bilkent University Fundamental Structures of Computer Science HWs 
