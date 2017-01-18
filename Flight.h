@@ -1,9 +1,3 @@
-/*
- * Ecem ilgun
- * 21502157
- */
-
-
 #ifndef FLIGHT_H
 #define FLIGHT_H
 
