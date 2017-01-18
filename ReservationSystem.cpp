@@ -1,7 +1,3 @@
-/*
- * Ecem ilgun
- * 21502157
- */
 #include "ReservationSystem.h"
 #include <iostream>
 #include <string>
